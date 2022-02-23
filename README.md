@@ -1,5 +1,12 @@
 # Progressive Web App (PWA) Text Editor ![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
   A text editor app that can be used locally or online! No need for an internet connection to retrieve notes! You can get them any time of the day.
+
+  This was a code along with our bootcamp class. A HUGE shoutout to our TA, Pat. He taught us a lot during the code along. Shoutout to our entire cohort and our teacher Lori, and our other TA, Jen.
+
+  Heroku Deployment: 
+
+  https://tranquil-basin-71089.herokuapp.com/
+
   # Table of Contents:
   * [Installation](#installation)
   * [Usage](#usage)
